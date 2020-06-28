@@ -1,0 +1,11 @@
+data_filename: serial_homeworld_sim_data-20200627-103056.csv
+elapsed_time: 13.09790849685669
+finished_datetime: 20200627-103056
+galaxy_height: 1000
+galaxy_radius: 50000
+h_zone_inner_radius: 22000
+h_zone_outer_radius: 29000
+iterations: 8
+log_filename: serial_homeworld_sim_log-20200627-103056.yaml
+num_stars: 1000
+save_output: true
