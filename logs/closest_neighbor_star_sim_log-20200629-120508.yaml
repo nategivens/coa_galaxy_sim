@@ -1,0 +1,12 @@
+data_filename: closest_neighbor_star_sim_data-20200629-120508.csv
+elapsed_time: 54801.96252799034
+finished_datetime: 20200629-120508
+galaxy_height: 1000
+galaxy_radius: 50000
+h_zone_inner_radius: 22000
+h_zone_outer_radius: 29000
+iterations: 32
+log_filename: closest_neighbor_star_sim_log-20200629-120508.yaml
+num_stars: 65536
+run_type: parallel
+save_output: 1
